@@ -1,0 +1,21 @@
+cd  //changing directory
+pwd //shows the current path
+ls //shows a list of file in current directory
+cp //copy a file
+mv //move or rename a file
+touch // create a txt file or changing date of a file
+rmdir //removing an empty directory
+rm //remvoing a filr
+mkdir //crrate  a directory
+zip //compressing files
+unzip//decompressing files
+cat// reading data from a file
+head //read first lines of a txt file
+tail //read the last lines of a txt file
+grep //find  a specific word in a file
+apt install // installing programs
+apt remove //uninstalling programs
+apt update //updating repository
+apt upgrade //updating programs
+find //
+locate // find a file
